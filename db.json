@@ -1,5 +1,4 @@
-{
-  "usuarios": [
+[
     {
       "id": 1,
       "nome": "ANDERSON FERREIRA DE SOUZA",
@@ -107,3 +106,4 @@
     }
   ]
 }
+
